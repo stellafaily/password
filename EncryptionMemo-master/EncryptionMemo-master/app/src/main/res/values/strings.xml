@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">암복호화 암호관리앱</string>
+    <string name="title_addmemo">등록</string>
+    <string name="title_viewmemo">확인</string>
+    <string name="title_editmemo">편집</string>
+    <string name="ok">OK</string>
+    <string name="done">Done</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirm">Confirm</string>
+    <string name="close">Close</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">저장하기</string>
+    <string name="edit">Edit</string>
+
+    <string name="correct_password1">비밀번호를 4자 이상 입력해주세요.</string>
+    <string name="correct_password2">비밀번호가 서로 다릅니다.\n다시 입력해주세요.</string>
+    <string name="correct_password3">잘 못된 비밀번호입니다.\n다시 입력해주세요.</string>
+
+    <string name="enc_input_dialog_message">"메모를 암호화할 비밀번호를 입력해주세요.\n\n모든 메모는 암호화되어 저장됩니다.\n</string>
+    <string name="enc_key_hint">비밀번호 입력 (4 ~ 16)</string>
+    <string name="enc_key_hint_re">비밀번호 재입력 (4 ~ 16)</string>
+
+    <string name="current_enc_key_hint">현재 비밀번호 입력 (4 ~ 16)</string>
+    <string name="new_enc_key_hint">새로운 비밀번호 입력 (4 ~ 16)</string>
+    <string name="new_enc_key_hint_re">새로운 비밀번호 재입력 (4 ~ 16)</string>
+
+    <string name="empty_memo">등록된 메모가 없습니다.</string>
+
+    <string name="this_memo_lock_save">이 메모는 암호화되어 저장됩니다.</string>
+    <string name="this_memo_unlock_save">이 메모는 암호화되지 않습니다.</string>
+
+    <string name="enter_a_title">제목을 입력해주세요.</string>
+    <string name="enter_a_ID">아이디를 입력해주세요.</string>
+    <string name="enter_a_PW">비밀번호를 입력해주세요.</string>
+    <string name="hint_add_title">TITLE</string>
+    <string name="hint_add_ID">ID</string>
+    <string name="hint_add_PW">PW</string>
+
+    <string name="title_add_data">이 메모의 내용을 입력해주세요.</string>
+    <string name="empty_title">제목 없음</string>
+
+    <string name="empty_data_plz_enter_a_data">입력된 내용이 없습니다. 내용을 입력해주세요.</string>
+    <string name="save_memo">메모가 저장되었습니다.</string>
+    <string name="remove_memo">메모가 영구적으로 삭제 되었습니다.</string>
+    <string name="update_memo">메모 정보를 수정하였습니다.</string>
+
+    <string name="enter_the_password">비밀번호를 입력해주세요.</string>
+    <string name="enter_remove_password">메모를 삭제합니다.\n\n비밀번호를 입력해주세요.</string>
+
+    <string name="secure_exception_rooting">.</string>
+    <string name="secure_exception_debugging">.</string>
+    <string name="secure_exception_crack">.</string>
+
+    <string name="infinity_locked">.</string>
+
+    <string name="remain_infinity_lock_count">.</string>
+    <string name="remain_time">.</string>
+
+    <string name="app_version">* 암복호화 암호관리앱 Version</string>
+
+</resources>
